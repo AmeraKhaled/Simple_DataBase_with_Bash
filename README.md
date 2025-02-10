@@ -22,6 +22,7 @@ The application provides a menu-driven interface with the following functionalit
   Run the application in a terminal.
   Use the interactive menu to perform database operations.
   Data is stored and managed on the hard disk for persistence.
+  ⚠️ Note: If you see a warning message in the background while running the application, it does not impact functionality and can be safely ignored.
 # Future Enhancements (Optional)
   Add support for advanced SQL-like queries.
   Implement user authentication for database access.
